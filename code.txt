@@ -1,0 +1,16 @@
+ Aim: Write a program to demonstrate bitwise operation.                   = bitwise.py
+
+ Aim: page rank Algorithm                                                 = pagerank.py
+
+ Aim: Implement Dynamic programming algorithm for computing the edit distance between strings s1   =s1s2.py
+ and s2. (Hint. Levenshtein Distance)
+
+ Aim: Write a program to Compute Similarity between two text documents                  = twotext.py
+
+ Aim: Program to count Uppercase, lowercase & Special characters                        = uls.py
+
+Aim: Write a program for pre-processing of a text document : stop word removal          = stopwords.py
+
+Aim: Write a program to implement simple web crawler                                    = webcrawler.py
+
+Pr 10 : Write a program to parse xml ext,generate web graph and compute topic specific pagerank   =  parsexml.py
